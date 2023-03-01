@@ -1,5 +1,6 @@
-import sys
-sys.path.append(r"c:\users\汉乐府\appdata\local\programs\python\python39\lib\site-packages")
+# import sys
+# windows下的open3d路径
+# sys.path.append(r"c:\users\汉乐府\appdata\local\programs\python\python39\lib\site-packages")
 # import open3d
 # print(open3d.__file__)
 
